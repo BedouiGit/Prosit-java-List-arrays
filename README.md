@@ -1,1 +1,2 @@
-# Prosit-java-List-arrays
+# Prosit-java-List-arrays 
+Manipulating lists and arrays 
